@@ -1,0 +1,12 @@
+{
+  "type": "tool",
+  "name": "framework-arduinoteensy-cxx17",
+  "version": "0.1.0",
+  "spec": {
+    "owner": "skepto",
+    "id": 99999,
+    "name": "framework-arduinoteensy-cxx17",
+    "requirements": null,
+    "url": null
+  }
+}
