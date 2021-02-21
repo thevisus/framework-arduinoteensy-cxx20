@@ -1,11 +1,11 @@
 {
   "type": "tool",
-  "name": "framework-arduinoteensy-cxx17",
+  "name": "framework-arduinoteensy-cxx20",
   "version": "0.1.0",
   "spec": {
-    "owner": "skepto",
+    "owner": "visus",
     "id": 99999,
-    "name": "framework-arduinoteensy-cxx17",
+    "name": "framework-arduinoteensy-cxx20",
     "requirements": null,
     "url": null
   }

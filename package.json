@@ -1,7 +1,7 @@
 {
-  "name": "framework-arduinoteensy-cxx17",
+  "name": "framework-arduinoteensy-cxx20",
   "version": "0.1.0",
-  "description": "Arduino Wiring-based Framework for Teensy boards w/ C++17 support",
+  "description": "Arduino Wiring-based Framework for Teensy boards w/ C++20 support",
   "keywords": [
     "framework",
     "arduino",
